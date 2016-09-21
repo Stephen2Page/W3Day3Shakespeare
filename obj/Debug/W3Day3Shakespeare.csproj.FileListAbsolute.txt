@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day3Shakespeare\W3Day3Shakespeare\bin\Debug\W3Day3Shakespeare.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day3Shakespeare\W3Day3Shakespeare\bin\Debug\W3Day3Shakespeare.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day3Shakespeare\W3Day3Shakespeare\bin\Debug\W3Day3Shakespeare.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day3Shakespeare\W3Day3Shakespeare\obj\Debug\W3Day3Shakespeare.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day3Shakespeare\W3Day3Shakespeare\obj\Debug\W3Day3Shakespeare.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day3Shakespeare\W3Day3Shakespeare\obj\Debug\W3Day3Shakespeare.pdb
